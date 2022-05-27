@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning / Artifical Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-Instagrm-_chaheti_
 
 <!---
 Chaheti05/Chaheti05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
