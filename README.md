@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -Instagrm-_chaheti_
+-linkedIn-https://www.linkedin.com/in/chaheti-bhandari-a26110215/
 
 <!---
 Chaheti05/Chaheti05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
